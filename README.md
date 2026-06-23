@@ -11,6 +11,9 @@
 - Full Stack Development
 
 💻 Skills:
+- Java
+- SQL
+- DSA
 - Python
 - HTML
 - CSS
